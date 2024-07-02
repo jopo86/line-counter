@@ -8,3 +8,6 @@ A simple line counter tool that can be installed and run from the terminal.
 4. Build the project from the build folder: `cmake --build .`
 5. Install the project from the build folder: `cmake --install .`
 6. Edit environment variables if needed (add path to installed executable to PATH)
+
+## Usage
+After installed, run `lc --help` to see usage.
